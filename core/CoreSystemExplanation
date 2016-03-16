@@ -1,0 +1,6 @@
+these are the files of the core, containing:
+- objects to connect to the DB
+- Data Access Objects 
+- system initializer object
+- an inactive thread object to delete expired coupons
+...
